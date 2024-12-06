@@ -20,6 +20,7 @@ My goal is to make a positive impact through teamwork and innovation.
 - **Other Skills:** Problem-solving, Debugging, UI/UX Design  
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvadah&layout=compact&theme=radical)  
 ### 🛠️ **Languages & Tools**
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
