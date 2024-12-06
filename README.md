@@ -22,7 +22,7 @@ My goal is to make a positive impact through teamwork and innovation.
 ---
 
 ### 📈 **GitHub Stats:**  
-![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  
+![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvadah&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
 
 ---
@@ -35,7 +35,7 @@ My goal is to make a positive impact through teamwork and innovation.
 
 ### 🔗 **Let's Connect:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=kvdah9@gmail.com&logoColor=white)](mailto:youremail@example.com)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=email&logoColor=white)](mailto:kvadah9@example.com)  
 
 🌟 **"Code is not just about solving problems; it’s about creating something meaningful."**
 
