@@ -20,7 +20,11 @@ My goal is to make a positive impact through teamwork and innovation.
 - **Other Skills:** Problem-solving, Debugging, UI/UX Design  
 
 ---
-
+### 🛠️ **Languages & Tools**
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ### 📈 **GitHub Stats:**  
 ![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvadah&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
