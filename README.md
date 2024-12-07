@@ -19,7 +19,9 @@ My goal is to make a positive impact through teamwork and innovation.
 - **Tools:** Firebase, SQLite, Git, VS Code, IntelliJ IDEA  
 - **Other Skills:** Problem-solving, Debugging, UI/UX Design  
 
----
+---<img src="https://raw.githubusercontent.com/kvadah/kvadah/output/snake.svg" alt="Snake animation" />
+
+###
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvadah&layout=compact&theme=radical)  
 ### 🛠️ **Languages & Tools**
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
