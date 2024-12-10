@@ -17,7 +17,7 @@ My goal is to make a positive impact through teamwork and innovation.
 - **Languages:** Dart, Java, Kotlin  
 - **Frameworks:** Flutter, Android SDK  
 - **Tools:** Firebase, SQLite, Git, VS Code, IntelliJ IDEA  
-- **Other Skills:** Problem-solving, Debugging, UI/UX Design  
+- **Other Skills:** Problem-solving, Debugging,Testing, UI/UX Design  
 
 
 ###
