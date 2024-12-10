@@ -29,7 +29,7 @@ My goal is to make a positive impact through teamwork and innovation.
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ### 📈 **GitHub Stats:**  
 ![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvadah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)  
+ 
 
 ---
 
