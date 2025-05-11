@@ -40,8 +40,8 @@ My goal is to make a positive impact through teamwork and innovation.
 ---
 
 ### 🔗 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=email&logoColor=white)](mailto:kvadah9@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kvadah)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=email&logoColor=white)](mailto:halid.zeyne90@gmail.com)  
 
 🌟 **"Code is not just about solving problems; it’s about creating something meaningful."**
 
