@@ -2,9 +2,9 @@
 ### 🖥️ Computer Science Student | 📱 Mobile App Developer | 🌱 Open Source Enthusiast  
 
 🎓 **About Me:**  
-I am a third-year Computer Science student passionate about building impactful applications.
-My primary focus is on **mobile app development**, utilizing frameworks and languages
-like **Flutter** and **Java** to create user-friendly and efficient solutions.  
+I am Computer Science grauate from Addis Ababa University passionate about building impactful applications.
+My primary focus is on **AI systems**, utilizing frameworks and libraries
+like **LangChain** , **Sentencetransformers** **FastAPI** and **Django** to create user-friendly and efficient solutions.  
 
 🤝 **What Drives Me:**  
 I am eager to contribute to group projects, collaborate with talented individuals, 
@@ -14,19 +14,23 @@ My goal is to make a positive impact through teamwork and innovation.
 ---
 
 ### 🛠️ **Skills & Technologies:**  
-- **Languages:** Dart, Java, Kotlin  
-- **Frameworks:** Flutter, Android SDK  
-- **Tools:** Firebase, SQLite, Git, VS Code, IntelliJ IDEA  
-- **Other Skills:** Problem-solving, Debugging,Testing, UI/UX Design  
+- **Languages:** python, Java,   
+- **Frameworks:** Django, LangChain,LLamaIndex,FastAPI  ...
+- **Tools:** Pinecone, Git, VS Code,... 
+- **Other Skills:** Problem-solving, Debugging,Testing, Flutter Development  
 
 
 ###
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvadah&layout=compact&theme=radical)  
 ### 🛠️ **Languages & Tools**
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Pinecone](https://img.shields.io/badge/-Pinecone-14B8A6?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat)
+![Sentence Transformers](https://img.shields.io/badge/-SentenceTransformers-FF6F00?style=flat)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FCC624?logo=huggingface&logoColor=black&style=flat)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Scikit Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=flat)
+
 ### 📈 **GitHub Stats:**  
 ![Khalid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kvadah&show_icons=true&theme=radical)  
  
@@ -34,8 +38,9 @@ My goal is to make a positive impact through teamwork and innovation.
 ---
 
 ### 🌟 **Current Focus:**  
-- Enhancing my mobile app development skills with **Flutter** and **Java**.  
-- Exploring **open-source contributions** and **collaborative projects**.  
+- Engineering **production-grade RAG systems** with hybrid retrieval and reranking  
+- Building **intelligent LLM pipelines**   
+- Developing scalable **AI backend systems** with FastAPI  
 
 ---
 
